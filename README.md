@@ -1,3 +1,6 @@
+In this project,it is going to ask for all of the people you are going to pay with. 
+Then after the library "random" is imported it will choose a name randomly and that person that has to pay. 
+
 ## Who's Paying
 
 # UPDATE
